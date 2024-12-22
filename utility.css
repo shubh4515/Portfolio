@@ -1,0 +1,10 @@
+.border {
+  border: 2px solid red;
+}
+.flex {
+  display: flex;
+}
+.orange {
+  color: rgb(220, 105, 40);
+  /* color: rgb(178, 107, 228); */
+}
